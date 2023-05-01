@@ -3,8 +3,7 @@ import Demo from "./Demo";
 import Title from "./Title";
 import CardEmission from "./CardEmission";
 import PocketBase from 'pocketbase';
-import {data} from "autoprefixer";
-const pb = new PocketBase('http://127.0.0.1:8090');
+const pb = new PocketBase('http://vibestv.fr/admin');
 
 interface Emissions {
     rappeur: string,
