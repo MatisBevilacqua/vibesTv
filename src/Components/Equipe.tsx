@@ -15,7 +15,7 @@ export default function Equipe() {
                     <CardTeam
                         rappeur="David"
                         second="Marveaux"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/2xnsrz7gk06a8dq/img_20230421_wa0000_0ma6mNF8qS.jpg"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/xd2jai9y4zow3uu/img_20230421_wa0000_0ma6m_nf8q_s_VpxEShnKpZ.jpg?token="
                         statut="Président"
                         info="L’homme de l’ombre"
                     />
@@ -23,7 +23,7 @@ export default function Equipe() {
                     <CardTeam
                         rappeur="Lord"
                         second="Killer"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/svq0tb8xbgpubhc/photo_lord_killer_vF3nvXI7bb.jpg"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/0bx10sxko1g153j/photo_lord_killer_v_f3nv_xi7bb_m2RNIe4iOv.jpg?token="
                         statut="Le chef d’orchestre"
                         info="Fondateur et Directeur Général De la compilation Hip Hop Vibes à Vibes TV "
                     />
@@ -31,7 +31,7 @@ export default function Equipe() {
                     <CardTeam
                         rappeur="Queen"
                         second="Stelyna"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/m82zv2noynyruao/queen_stelyna_CC8Rq0KeYq.jpg"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/a0liwnvdv6twuju/photos_sandra_amcu_r4a0vq_IK87tKqqwZ.jpg?token="
                         statut="Ambassadrice de la chaine"
                         info="Présentatrice et Journaliste"
                     />
@@ -39,7 +39,7 @@ export default function Equipe() {
                     <CardTeam
                         rappeur="Mr"
                         second="French"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/8j421853t0s8pfq/photo_french_zVMklZNewQ.png"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/mhkvwats9xue72j/photo_french_z_vmkl_znew_q_mYwndTvV6D.png?token="
                         statut="Responsable des Relations Artistiques"
                         info="La touche musicale"
                     />
@@ -47,15 +47,15 @@ export default function Equipe() {
                     <CardTeam
                         rappeur="Mr"
                         second="Killy"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/pndmj3kuh1hxmlh/photo_killy_GC2IdNqub9.jpg"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/zx8ng45rmfg8t6v/photo_killy_gc2_id_nqub9_7zxqRLUoO2.jpg?token="
                         statut="Chef de la régie"
-                        info="vLe contrôleur de la chaine"
+                        info="Le contrôleur de la chaine"
                     />
 
                     <CardTeam
                         rappeur="Mme"
                         second="Sandra"
-                        img="http://127.0.0.1:8090/api/files/yq4pqxqjmi2guft/0ukp7npb2kt2g80/photos_sandra_AMCuR4a0vq.jpg"
+                        img="http://vibestv.fr/admin/api/files/yq4pqxqjmi2guft/cat5j7ebbqofz4w/queen_stelyna_cc8_rq0_ke_yq_IaWwmH6YmI.jpg?token="
                         statut="Gestionnaire administrative"
                         info="La force tranquille"
                     />
