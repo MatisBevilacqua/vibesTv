@@ -55,7 +55,7 @@ export default function Emission() {
                         console.log()
                         setLinkMovie(o.emission);
                     }
-                    } className="basis-[22%] min-w-[350px] h-[45vh]">
+                    } className="max-w-sm basis-[22%] rounded shadow-lg">
                         <CardEmission rappeur={o.rappeur} img={o.image}/>
                     </article>
                 ))}
